@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research-grounded writing"
+  short_description: "Natural academic writing grounded in sources"
+  default_prompt: "Use $human-research-writer to write a clear academic text grounded in sources."
